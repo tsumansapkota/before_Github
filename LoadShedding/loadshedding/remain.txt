@@ -1,0 +1,5 @@
+[Variables]
+Rem=00 : 01
+sch1=10 : 00 - 14 : 00 
+sch2=18 : 00 - 22 : 00
+img= 0.png

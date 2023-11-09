@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="Widget.Theme.RcRemote.ActionBar.Fullscreen" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+    <style name="Widget.Theme.RcRemote.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+    <style name="SpinnerTheme" parent="android:Widget.Spinner">
+        <item name="android:background"
+            width="24dp"
+            height="24dp"
+            gravity="end|center_vertical">@drawable/down_arr</item>
+    </style>
+
+</resources>
